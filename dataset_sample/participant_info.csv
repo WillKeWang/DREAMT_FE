@@ -1,0 +1,101 @@
+SID,AGE,GENDER,BMI,OAHI,AHI,Mean_SaO2,Arousal Index,MEDICAL_HISTORY
+S002,65.9,M,27,19,19,91%,98,"Asthma, Body Pain, GERD, Hypertension, Sleep Apnea"
+S003,29.38,F,51,34,37,95%,28,None
+S004,55.66,F,41,63,99,89%,109,"Arrhythmia, Body Pain, Depression, Dyspnea, GERD"
+S005,49.12,F,43,19,20,95%,28,"Asthma, Body Pain, Depression, Diabetes, Dyspnea, GERD, Sleep Apnea"
+S006,36.91,F,22,4,5,97%,34,"Depression, Sleep Apnea"
+S007,86.13,F,34,14,15,87%,54,"CAD, Diabetes, GERD, Hypertension, Sleep Apnea"
+S008,62.38,M,30,47,48,93%,47,None
+S009,67.03,M,27,8,21,98%,35,"Asthma, Body Pain, Hypertension"
+S010,50.62,F,31,13,13,97%,25,"Body Pain, Depression, Dyspnea"
+S011,38.56,M,32,2,2,97%,26,"Anxiety, Arrhythmia"
+S012,72.89,F,29,2,7,96%,46,Asthma
+S013,40.07,M,41,4,9,91%,3,None
+S014,51.94,F,32,20,21,96%,44,"Anxiety, Asthma, Body Pain, CAD, Depression, Diabetes, GERD, Hypertension, Migraine"
+S015,26.63,F,30,1,1,96%,18,"Depression, Diabetes"
+S016,73.81,M,38,34,34,95%,25,"Arrhythmia, Body Pain, CAD, Depression, GERD, Hypertension"
+S017,58.08,M,32,9,30,96%,47,"Hypertension, Sleep Apnea"
+S018,63.73,F,32,6,6,94%,16,"Depression, GERD"
+S019,74.9,M,33,3,4,95%,56,"Depression, GERD, Hypertension"
+S020,24.48,F,24,22,22,97%,43,Migraine
+S021,62,M,29,1,4,98%,83,"Arrhythmia, Diabetes, Hypertension, Sleep Apnea"
+S022,75,M,33,10,11,92%,13,"Anxiety, Arrhythmia, Asthma, Body Pain, CAD, Depression, Diabetes, GERD, Hypertension, Sleep Apnea"
+S023,52,F,33,6,6,96%,24,"Body Pain, Hypertension"
+S024,69.2,M,28,1,1,93%,8,"Depression, Hypertension"
+S025,64.53,F,39,15,15,95%,20,"Depression, Diabetes, GERD, Hypertension"
+S026,60.97,F,42,24,24,91%,13,Hypertension
+S027,63,F,32,8,8,93%,47,"Body Pain, Depression, Dyspnea"
+S028,62.84,F,27,31,31,95%,42,None
+S029,77.69,F,23,1,2,91%,39,"Anxiety, Asthma, Depression, Hypertension, Migraine"
+S030,41.47,M,24,21,21,98%,79,"Arrhythmia, Hypertension, Sleep Apnea"
+S031,30.37,F,43,43,43,91%,25,None
+S032,75.76,F,30,22,22,92%,66,"Anxiety, Body Pain, CAD, Diabetes, GERD, Hypertension"
+S033,43.48,M,34,2,2,95%,27,None
+S034,25,M,29,5,5,97%,6,Migraine
+S035,45,M,39,46,46,88%,20,"CAD, Diabetes, Hypertension"
+S036,21.23,F,25,1,1,98%,18,"Anxiety, Arrhythmia, Body Pain"
+S037,77.73,M,25.5,2,29,95%,65,"GERD, Hypertension, Sleep Apnea"
+S038,70,M,28,9,20,97%,24,"Depression, Hypertension"
+S039,79,M,30,2,8,97%,28,"Arrhythmia, Hypertension, Sleep Apnea"
+S040,25,F,33,6,6,96%,31,"Anxiety, Asthma, Depression"
+S042,33.57,F,39,0,0,96%,21,"Asthma, Depression"
+S043,79.91,M,25,10,13,95%,23,"Body Pain, Depression"
+S044,59.16,M,27,10,10,97%,23,GERD
+S045,42.82,M,32,5,7,96%,32,Hypertension
+S046,37,F,58,178,182,77%,109,None
+S047,74,F,33,75,76,90%,36,"Anxiety, Asthma, Depression, Diabetes, Hypertension, Sleep Apnea"
+S048,45,F,55,7,7,94%,6,"Depression, Diabetes, GERD, Hypertension, Sleep Apnea"
+S049,51,F,46,4,4,91%,3,"Anxiety, GERD, Hypertension"
+S050,71.59,F,30,3,3,94%,20,"Body Pain, Hypertension"
+S051,75.82,F,30,1,1,99%,25,"Depression, Diabetes, Hypertension, Sleep Apnea"
+S052,30.14,M,32,6,6,96%,28,Body Pain
+S053,38.61,F,32,18,20,98%,28,"Anxiety, Asthma, Body Pain, Depression, Migraine"
+S054,60.41,F,37,24,24,93%,43,"Anxiety, Arrhythmia, Asthma, Depression, Diabetes, Dyspnea, GERD, Hypertension, Sleep Apnea"
+S055,79.48,M,28,3,5,94%,86,"CAD, Depression, Hypertension, Sleep Apnea"
+S056,69.3,F,37,8,8,96%,41,None
+S057,50,M,43,1,3,93%,28,"Dyspnea, Hypertension"
+S058,75,M,29,52,64,93%,81,"Body Pain, CAD, Depression, GERD, Hypertension"
+S059,49,F,38,127,127,88%,132,None
+S061,64.05,F,18,35,37,93%,49,"Asthma, Depression, Diabetes"
+S062,38.67,F,72,115,115,90%,39,"Body Pain, Diabetes, GERD, Hypertension, Migraine, Sleep Apnea"
+S063,44.91,F,20,2,2,93%,40,Asthma
+S064,52.71,M,35,37,37,94%,58,"GERD, Hypertension"
+S065,60.07,F,32,1,1,96%,19,"Body Pain, Hypertension"
+S066,70.63,F,31,1,1,95%,13,"Anxiety, Depression, Dyspnea, Sleep Apnea"
+S067,75.14,M,31,2,2,91%,16,"Anxiety, Asthma, Body Pain, Depression, Dyspnea"
+S068,38.47,M,58,30,30,94%,26,"Depression, Hypertension"
+S069,53.94,F,40,19,19,96%,27,Hypertension
+S070,55.07,F,31,32,33,94%,20,"Anxiety, Body Pain"
+S071,59.41,M,41,65,70,92%,51,"Body Pain, Dyspnea, Hypertension"
+S072,67.6,M,33,68,69,94%,90,"Anxiety, Depression, Hypertension"
+S073,36,F,35,14,14,95%,27,"Anxiety, Asthma, Body Pain, Depression"
+S074,59.91,F,23,5,5,95%,11,"Anxiety, Body Pain, Depression"
+S075,72.08,F,25,0,0,94%,19,"Arrhythmia, Diabetes, Hypertension, Sleep Apnea"
+S076,62.89,F,35,2,2,95%,10,"Anxiety, Body Pain, Depression, GERD"
+S077,57.02,F,27,5,6,94%,9,"Asthma, Body Pain, Hypertension"
+S078,58.23,M,40,1,6,92%,21,"Anxiety, Body Pain, Depression"
+S079,42.47,M,29,27,29,95%,19,None
+S080,21.29,M,44,11,12,97%,16,"Body Pain, Dyspnea"
+S081,55.35,M,37,17,18,94%,32,"Anxiety, Hypertension"
+S082,72.59,F,37,0,0,90%,91,Depression
+S083,82.99,M,32,7,50,95%,55,"Diabetes, GERD, Hypertension"
+S084,44.97,M,32,1,1,95%,11,"Anxiety, Body Pain"
+S085,76.69,M,29,1,1,95%,3,"Depression, Hypertension"
+S086,65.7,M,23,4,4,97%,56,"Anxiety, Body Pain, Depression, Sleep Apnea"
+S087,55.06,M,24,0,7,96%,14,Anxiety
+S088,76.91,F,34,28,28,84%,42,None
+S089,40.07,M,36,27,33,94%,69,None
+S090,86.93,M,31,1,2,95%,57,"Arrhythmia, Body Pain, CAD, Diabetes, Hypertension, Sleep Apnea"
+S091,51.01,M,31,9,10,95%,38,"Anxiety, Body Pain, Hypertension"
+S092,53.46,F,41,21,21,94%,28,None
+S093,41.13,F,42,17,17,93%,29,"Anxiety, Hypertension"
+S094,73.07,M,28,35,49,94%,58,"Anxiety, Diabetes, Hypertension"
+S095,35.07,F,35,0,0,95%,73,"Anxiety, Asthma, Depression"
+S096,31.62,F,53,29,29,95%,55,Hypertension
+S097,73.6,F,26,24,33,93%,31,"CAD, Hypertension, Migraine, Sleep Apnea"
+S098,66.13,F,37,23,23,95%,25,"Anxiety, Body Pain, GERD, Hypertension"
+S099,59.92,M,26,31,31,94%,68,"Body Pain, CAD, GERD, Sleep Apnea"
+S100,59.89,F,28,25,25,95%,20,"Body Pain, GERD"
+S101,38.02,F,39,1,2,99%,20,"Diabetes, Hypertension"
+S102,57.44,M,26,18,24,95%,43,"Asthma, Depression, GERD, Migraine, Sleep Apnea"
+S103,64.07,F,32,36,37,93%,49,"Body Pain, Dyspnea, Hypertension"
