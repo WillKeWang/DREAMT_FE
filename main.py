@@ -17,9 +17,13 @@ warnings.filterwarnings("ignore", category=RuntimeWarning)
 # Prepare the data
 # Adjust your path here
 quality_df_dir = './results/quality_scores_per_subject.csv'
-features_dir = "dataset_sample/E4_aggregate/"
+features_dir = "dataset_sample/features_df/"
 info_dir = "dataset_sample/participant_info.csv"
-clean_df, new_features, good_quality_sids = data_preparation(0.2, quality_df_dir, features_dir, info_dir)
+clean_df, new_features, good_quality_sids = data_preparation(
+    threshold = 0.2, 
+    quality_df_dir = quality_df_dir,
+    features_dir = features_dir,
+    info_dir = info_dir)
 
 # Split data to train, validation, and test set
 SW_df, final_features = split_data(clean_df, good_quality_sids, new_features)
